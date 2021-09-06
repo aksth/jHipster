@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "aksth",
+      "authorName": "Akash Shrestha",
+      "authorEmail": "shrestha.akash01@gmail.com",
+      "authorUrl": "github.com/aksth"
+    }
+  }
+}
